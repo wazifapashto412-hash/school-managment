@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">School Management System</string>
+    <string name="login">Login</string>
+    <string name="logout">Logout</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="full_name">Full name</string>
+    <string name="setup_title">First-time setup</string>
+    <string name="setup_hint">Create the Super Admin account. No default password exists.</string>
+    <string name="create_account">Create account</string>
+    <string name="dashboard">Dashboard</string>
+    <string name="welcome">Welcome, %1$s</string>
+    <string name="coming_soon">Coming in a later stage</string>
+    <string name="err_invalid">Invalid username or password</string>
+    <string name="err_locked">Too many attempts. Try again in a minute.</string>
+    <string name="err_weak">Password must be at least 8 characters with letters and digits</string>
+    <string name="err_required">All fields are required</string>
+    <string name="err_taken">Username already exists</string>
+    <string name="mod_students">Students</string>
+    <string name="mod_classes">Classes</string>
+    <string name="mod_attendance">Attendance</string>
+    <string name="mod_fees">Fees</string>
+    <string name="mod_exams">Exams</string>
+    <string name="mod_staff">Teachers &amp; Staff</string>
+    <string name="mod_reports">Reports</string>
+    <string name="mod_backup">Backup</string>
+    <string name="mod_settings">Settings</string>
+    <string name="mod_users">Users</string>
+</resources>

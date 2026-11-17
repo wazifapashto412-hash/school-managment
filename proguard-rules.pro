@@ -1,0 +1,1 @@
+-keep class com.schoolmanagement.app.data.database.entity.** { *; }

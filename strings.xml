@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">اسکول مینجمنٹ سسٹم</string>
+    <string name="login">لاگ اِن</string>
+    <string name="logout">لاگ آؤٹ</string>
+    <string name="username">صارف نام</string>
+    <string name="password">پاس ورڈ</string>
+    <string name="full_name">پورا نام</string>
+    <string name="setup_title">ابتدائی سیٹ اپ</string>
+    <string name="setup_hint">سپر ایڈمن اکاؤنٹ بنائیں۔ کوئی ڈیفالٹ پاس ورڈ موجود نہیں۔</string>
+    <string name="create_account">اکاؤنٹ بنائیں</string>
+    <string name="dashboard">ڈیش بورڈ</string>
+    <string name="welcome">خوش آمدید، %1$s</string>
+    <string name="coming_soon">اگلے مرحلے میں شامل ہوگا</string>
+    <string name="err_invalid">صارف نام یا پاس ورڈ غلط ہے</string>
+    <string name="err_locked">بہت زیادہ کوششیں۔ ایک منٹ بعد دوبارہ کوشش کریں۔</string>
+    <string name="err_weak">پاس ورڈ کم از کم 8 حروف اور اعداد پر مشتمل ہو</string>
+    <string name="err_required">تمام خانے پُر کرنا ضروری ہے</string>
+    <string name="err_taken">یہ صارف نام پہلے سے موجود ہے</string>
+    <string name="mod_students">طلبہ</string>
+    <string name="mod_classes">کلاسیں</string>
+    <string name="mod_attendance">حاضری</string>
+    <string name="mod_fees">فیس</string>
+    <string name="mod_exams">امتحانات</string>
+    <string name="mod_staff">اساتذہ و عملہ</string>
+    <string name="mod_reports">رپورٹس</string>
+    <string name="mod_backup">بیک اپ</string>
+    <string name="mod_settings">سیٹنگز</string>
+    <string name="mod_users">صارفین</string>
+</resources>
